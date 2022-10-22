@@ -1,5 +1,7 @@
 # RoboFriends
 
+This project built with React.js and JSONplaceholder API. It is a simple app that fetches data from an API and displays it on the page. It also has a search functionality that filters the robots based on the name.
+
 ## Stacks
 
 -   [React](https://reactjs.org/)

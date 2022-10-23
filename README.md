@@ -32,3 +32,14 @@ For educational purposes only. Do not use for commercial purposes.
 
 -   [Andrei Neagoie](https://github.com/aneagoie/robofriends) - Instructor
 -   [PunGrumpy](https://github/pungrumpy) - Student
+
+## Select a branch
+
+You can select the project using React or React Hooks by using the branch selector at the top of the page.
+
+-   [React](https://github.com/PunGrumpy/Robofriends/tree/React)
+-   [React-Hooks](https://github.com/PunGrumpy/Robofriends/tree/React-Hooks)
+
+## Thanks
+
+If you like this project, please give it a ⭐️ and share it with your friends. Thank you! 🙏

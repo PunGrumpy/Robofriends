@@ -49,7 +49,11 @@ function App() {
     ) : (
         <div className="tc">
             <h1 className="f1">RoboFriends</h1>
-            <button onClick={() => setCount(count + 1)}>Click Me</button>
+            <div className="pa3">
+                <button className="" onClick={() => setCount(count + 1)}>
+                    Click Me
+                </button>
+            </div>
             <SearchBox searchChange={onSearchChange} />
             <Scroll>
                 <ErrorBoundary>
